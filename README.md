@@ -1,27 +1,13 @@
-# Friendlychat
+NAME : MUHAMMAD AZIM BIN MOHD KHAIRI
+STUDENT ID : 2023240076
+GROUP  : T5CDCS2703B2
+LEC. NAME : MUHAMMAD ATIF BIN RAMLAN 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
+Project Background : 
+This angular project is a web texting application that can receive both text and image input and display them at the chat space. The tutorial can be found here: https://firebase.google.com/codelabs/firebase-web#0 . These project is great for those who learning to use and build web using angular cli and firebase console (provided by google). 
 
-## Development server
+Discussion : 
+Firebase provided the core infrastructure for my application, specifically through its Authentication and Firestore Database services, alongside Angular CLI for streamlining development. Firebase Authentication made it easy to implement secure sign-ins with providers like Google and Facebook, significantly cutting down development time. Meanwhile, Firestore’s flexible document-based structure enabled seamless real-time data synchronization, ensuring that any updates were instantly reflected across connected devices. Together with Angular CLI’s powerful command-line tools, these technologies empowered me to create a responsive and secure app with minimal setup effort.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Despite its many advantages, Firebase presented several challenges that pushed me to grow as a developer. Optimizing complex queries in Firestore to avoid usage limits required significant trial and error, and configuring precise access rules for sensitive data was time-intensive. Additionally, customizing the Authentication UI to align with my app’s design was more difficult than anticipated. These experiences taught me valuable lessons in balancing platform capabilities with resource management and planning ahead to mitigate technical hurdles. Overall, Firebase proved to be a reliable yet demanding platform that enhanced both my app and my skills as a developer.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
